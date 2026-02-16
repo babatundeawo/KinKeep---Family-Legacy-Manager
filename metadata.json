@@ -1,0 +1,7 @@
+{
+  "name": "KinKeep - Family Legacy Manager",
+  "description": "A private, AI-powered family tree and relationship manager to store family history, link connections, and preserve memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
